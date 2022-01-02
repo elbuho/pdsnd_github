@@ -242,7 +242,7 @@ def dataframe_data(df):
 
     print('Press enter to see the firts 10 rows of the dataframe or  write quit and press enter to skip')
     i = 0
-    while (input()!= 'quit'):
+    while (input().lower()!= 'quit'):
 
         print(df[i:i+10])
         i = i + 10
