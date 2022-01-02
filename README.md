@@ -1,5 +1,5 @@
 # Udacity-programming-for-Data-Science-With-Python-Nanodegree
-This repository contains project 3 for Udacity  Nanodegree (Programming For Data Science Using Python)
+This repository was created by **Jorge Muñoz Rama** and contains project 3 for Udacity  Nanodegree (Programming For Data Science Using Python)
 
 ## Project 3
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
@@ -9,15 +9,21 @@ In this project, you will create a GitHub repository and your local repository. 
 
 ### Files used
 The required files for running this program are:
-new_york_city.csv
-washington.csv 
-chicago.csv
+
+- new_york_city.csv
+- washington.csv 
+- chicago.csv
 
 ### Requirements
 This program was written in Python (version 3.7.4) and used the following libraries:
 
-pandas version 0.25.1
-numpy version 1.16.5
+- pandas version 0.25.1
+- numpy version 1.16.5
+
+### Credits
+Thank you to Udacity for this Nanodegree program!
+
+[Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104 "Programming for Data Science with Python")
 
 ### Project Submission
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
