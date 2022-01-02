@@ -28,6 +28,7 @@ def get_city():
         else:
             print('Check if your spelling is right,you have to choose Chicago, New York, or Washingto.')
             print('Try again!')
+            time.sleep(1)
             continue
     return city
 
