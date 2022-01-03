@@ -75,7 +75,7 @@ def load_data(city, month, day):
 
 def check_date(time_data):
     """
-    this function checks that the month and day
+    This function checks that the month and day
     correspond with the lists of months and days
     Args: time_data (it could be month, day, both, or all )
     return: date
@@ -97,6 +97,11 @@ def check_date(time_data):
     return date
 
 def time_frame():
+    """
+    this function allows the user to select by day, month or both
+    Args: Doesn't have them
+    return: month and day
+    """
     time_data = []
     while True:
         if time_data == []:
